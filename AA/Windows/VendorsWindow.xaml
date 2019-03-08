@@ -1,0 +1,9 @@
+﻿<Window x:Class="AA.Windows.VendorsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:userControls="clr-namespace:AA.UserControls"
+        Title="VendorsWindow" Height="300" Width="300" Style="{StaticResource DefaultWindow}" WindowStartupLocation="CenterOwner">
+    <Grid>
+		<userControls:CollectionControl x:Name="collectionControl"/>
+	</Grid>
+</Window>

@@ -1,0 +1,3526 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vendors>
+    <Vendor>
+      <Id>39a7c5d5-8a16-45e2-9830-8e160417f0ed</Id>
+      <Name>_Аукцион</Name>
+    </Vendor>
+    <Vendor>
+      <Id>9953fc67-55ad-4511-983c-5f3b1a93779a</Id>
+      <Name>Продавец мелочей</Name>
+    </Vendor>
+    <Vendor>
+      <Id>06653b12-41a9-4486-b18c-a249423e2b64</Id>
+      <Name>Восток - Полуостров рассвета (Ост-Терра)</Name>
+    </Vendor>
+    <Vendor>
+      <Id>3f9a6eda-3a16-4868-a0f7-716446dec6a0</Id>
+      <Name>Восток - Савана</Name>
+    </Vendor>
+    <Vendor>
+      <Id>1523a88c-d653-45fb-b212-edd758bdd66a</Id>
+      <Name>Запад - Две короны (Крепость)</Name>
+    </Vendor>
+    <Vendor>
+      <Id>facf3db9-e576-438b-b88f-2b945c32a84d</Id>
+      <Name>Восток - Радужные пески</Name>
+    </Vendor>
+    <Vendor>
+      <Id>f8349c1a-042f-49c8-9cf9-6920952dc14a</Id>
+      <Name>Повар</Name>
+    </Vendor>
+    <Vendor>
+      <Id>f99e7070-e50c-441c-bd18-daa2935d593d</Id>
+      <Name>НПС</Name>
+    </Vendor>
+  </Vendors>
+  <Items>
+    <Item>
+      <Id>11111111-1111-1111-1111-111111111111</Id>
+      <Name>_Золото</Name>
+      <ShortName>г</ShortName>
+      <BuyPrices />
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>6b5b99b5-02a8-4742-bb26-ab13d49803fb</Id>
+      <Name>Дельфийские звёзды</Name>
+      <ShortName>ДЗ</ShortName>
+      <BuyPrices />
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>a70f057c-0bfa-463c-a7b7-67efb6db9cd1</Id>
+      <Name>Нашинкованные овощи</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0275</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>566e1e77-ba97-41d0-9d9e-968f3affacdc</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>11</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>45127707-4ee2-47e8-b254-a74335070162</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>12</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>a12808f0-2098-45b2-ad5f-78009ad70457</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>11</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>7b03f236-bd4a-4637-aef1-da1ceb059a35</Id>
+      <Name>Алоэ</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0672</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1870</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>008ddd4c-e01f-400d-9b1d-e3fb99d4b61c</Id>
+      <Name>Настойка алоэ</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices>
+        <Price>
+          <VendorId>06653b12-41a9-4486-b18c-a249423e2b64</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>14.3</Value>
+          <AddItems />
+        </Price>
+      </SalePrices>
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>a70f057c-0bfa-463c-a7b7-67efb6db9cd1</ItemId>
+              <Count>50</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>7b03f236-bd4a-4637-aef1-da1ceb059a35</ItemId>
+              <Count>75</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>398686be-6161-49e8-8752-7b96b82ab94c</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>70</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>00000000-0000-0000-0000-000000000000</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>398686be-6161-49e8-8752-7b96b82ab94c</Id>
+      <Name>Сертификат торговца</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>9953fc67-55ad-4511-983c-5f3b1a93779a</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.5</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</Id>
+      <Name>Чудо-измельчитель консорциума</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0050</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>22222222-2222-2222-2222-222222222222</Id>
+      <Name>_Очки работы</Name>
+      <ShortName>ОР</ShortName>
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0536196</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1525</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>bafa2bb8-596c-44f2-ade5-d583551d35ed</Id>
+      <Name>Измельченные лепестки цветов</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0337</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>98a45b7f-c4d5-4a07-be47-36ecfdfe6bd6</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>24</Count>
+          <ProfessionId>00000000-0000-0000-0000-000000000000</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>aad6c7de-c86b-4ef0-8218-82bf64f56e44</Id>
+      <Name>Измельченные злаки</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0217</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>c31eaa0c-703f-4f60-b3cd-0ca3495fb8c0</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>12</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>3cf49d1a-5e28-4bc4-8ca4-1b4afd739f09</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>15</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>7574d7c7-5469-47dc-b9d0-4dc0b5ff3b07</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>17</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>dc437f40-7b26-4c07-9c4a-7ee4d89ec170</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>15</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>bd2e0bda-106f-4d2d-95e1-d4b92f13843a</Id>
+      <Name>Мясной фарш</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0118</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>c79a752d-3d7f-4920-bd85-c83b6d7cc351</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>100</Count>
+          <ProfessionId>89d63e8e-16bb-44b6-b46b-e2c8b3d3b4c3</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>6c1d92c6-8695-4bbe-9c3a-17310f5d7271</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>38</Count>
+          <ProfessionId>89d63e8e-16bb-44b6-b46b-e2c8b3d3b4c3</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>0b287ed4-3517-413a-a446-eeec631b15cb</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>38</Count>
+          <ProfessionId>89d63e8e-16bb-44b6-b46b-e2c8b3d3b4c3</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>4cb705ed-b325-4d98-b8df-e897af73e677</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>100</Count>
+          <ProfessionId>89d63e8e-16bb-44b6-b46b-e2c8b3d3b4c3</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>d292ac06-d90c-4007-8dba-4548d4712827</Id>
+      <Name>Груз компоста (Дом)</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices>
+        <Price>
+          <VendorId>06653b12-41a9-4486-b18c-a249423e2b64</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>12.51</Value>
+          <AddItems />
+        </Price>
+        <Price>
+          <VendorId>1523a88c-d653-45fb-b212-edd758bdd66a</VendorId>
+          <CurrencyId>4dca0bf7-cf51-493c-bd13-5d350967cea3</CurrencyId>
+          <Value>19</Value>
+          <AddItems />
+        </Price>
+        <Price>
+          <VendorId>1523a88c-d653-45fb-b212-edd758bdd66a</VendorId>
+          <CurrencyId>6b5b99b5-02a8-4742-bb26-ab13d49803fb</CurrencyId>
+          <Value>2</Value>
+          <AddItems />
+        </Price>
+        <Price>
+          <VendorId>facf3db9-e576-438b-b88f-2b945c32a84d</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>6.75</Value>
+          <AddItems />
+        </Price>
+      </SalePrices>
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>398686be-6161-49e8-8752-7b96b82ab94c</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>a70f057c-0bfa-463c-a7b7-67efb6db9cd1</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>aad6c7de-c86b-4ef0-8218-82bf64f56e44</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>bd2e0bda-106f-4d2d-95e1-d4b92f13843a</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>bafa2bb8-596c-44f2-ade5-d583551d35ed</ItemId>
+              <Count>50</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>70</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>4dca0bf7-cf51-493c-bd13-5d350967cea3</Id>
+      <Name>Древесный уголь</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.9436</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>1.1111</Value>
+          <AddItems />
+        </Price>
+      </SalePrices>
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>56</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>98a45b7f-c4d5-4a07-be47-36ecfdfe6bd6</Id>
+      <Name>Кактус</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0721</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>00f25cc3-974b-4292-853b-16b7b54ad230</Id>
+      <Name>Яблоко</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0756</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>6e7293a7-9bab-44e6-9aae-cf447cf3a7d3</Id>
+      <Name>Экологичное топливо</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.8732</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>c31eaa0c-703f-4f60-b3cd-0ca3495fb8c0</Id>
+      <Name>Ячмень</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.032</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>3cf49d1a-5e28-4bc4-8ca4-1b4afd739f09</Id>
+      <Name>Рис</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.027</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>7574d7c7-5469-47dc-b9d0-4dc0b5ff3b07</Id>
+      <Name>Пшеница</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0448</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>200</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>c79a752d-3d7f-4920-bd85-c83b6d7cc351</Id>
+      <Name>Говядина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1237</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>6c1d92c6-8695-4bbe-9c3a-17310f5d7271</Id>
+      <Name>Курятина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1341</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>0b287ed4-3517-413a-a446-eeec631b15cb</Id>
+      <Name>Утятина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1464</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>4cb705ed-b325-4d98-b8df-e897af73e677</Id>
+      <Name>Мясо ятты</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2036</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1676</Value>
+          <AddItems />
+        </Price>
+      </SalePrices>
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>864cbf45-9861-4a4b-8bfd-693cd6189bd1</Id>
+      <Name>Камень</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.076</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</Id>
+      <Name>Долото</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>9953fc67-55ad-4511-983c-5f3b1a93779a</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.05</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>5</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>5911c5db-85d4-4d8e-b1d9-0964755bc0fd</Id>
+      <Name>Каменный блок</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.3353</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>864cbf45-9861-4a4b-8bfd-693cd6189bd1</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>79db97d5-f5fe-4354-b6be-c8a03df76836</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Звиздун</CharacterName>
+          <Value>200</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>a19f94d2-1fa7-47f2-b982-0f5b42986f46</Id>
+      <Name>Камень странствий</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.7173</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>5911c5db-85d4-4d8e-b1d9-0964755bc0fd</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>15</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>3</Count>
+          <ProfessionId>79db97d5-f5fe-4354-b6be-c8a03df76836</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>dc437f40-7b26-4c07-9c4a-7ee4d89ec170</Id>
+      <Name>Кукуруза</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0397</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>c239f6a7-30b5-4780-be28-6c639a8d34a2</Id>
+      <Name>Шерсть ятты</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0276</Value>
+          <AddItems />
+        </Price>
+      </SalePrices>
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>8df8fa46-087a-4b3b-9f80-cf19dce32730</Id>
+      <Name>Ремесленный молоточек</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>1</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>df679be2-e69c-4148-84d4-42076f1d7224</Id>
+      <Name>Чернила печатника</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>174cf265-8eb9-4357-ac76-4604d8758b49</Id>
+      <Name>Семена подсолнуха</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.04</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>2ea354a6-1936-4527-a30d-bb2fe702fd2e</Id>
+      <Name>Эксперимент. клумба подсолнуха</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>7.13</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>174cf265-8eb9-4357-ac76-4604d8758b49</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8df8fa46-087a-4b3b-9f80-cf19dce32730</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>df679be2-e69c-4148-84d4-42076f1d7224</ItemId>
+              <Count>4</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>4</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>3f88be5b-4a6b-4578-b579-cc8ae7df6311</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>243ae22b-71fe-454f-88c3-27921a0371e0</Id>
+      <Name>Лимон</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1073</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>d02bb583-37f1-4ba8-99aa-491bb957e326</Id>
+      <Name>Свежевыжатый сок</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>243ae22b-71fe-454f-88c3-27921a0371e0</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b0fd3226-d1b5-416d-92fe-2bb1eb0032c7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>14</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>566e1e77-ba97-41d0-9d9e-968f3affacdc</Id>
+      <Name>Картофель</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0293</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>45127707-4ee2-47e8-b254-a74335070162</Id>
+      <Name>Лук</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0171</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>a12808f0-2098-45b2-ad5f-78009ad70457</Id>
+      <Name>Огурец</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.023</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>52c83c52-f9ed-4e30-8e76-1af8236b523d</Id>
+      <Name>Саженец сосны</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>93547acc-806b-466a-95e3-878dff0c732a</Id>
+      <Name>Эксперимент. сосна</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>52c83c52-f9ed-4e30-8e76-1af8236b523d</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8df8fa46-087a-4b3b-9f80-cf19dce32730</ItemId>
+              <Count>12</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>df679be2-e69c-4148-84d4-42076f1d7224</ItemId>
+              <Count>45</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>48</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>18ff3e2b-dadb-4e1d-89cf-5155cc13e3ac</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>5c8a4b70-d6a3-446a-a42f-a2c6daab7bda</Id>
+      <Name>Горячий бульон</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>f8349c1a-042f-49c8-9cf9-6920952dc14a</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.08</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>180050ac-1f3e-4d37-939c-39c49f4fd8b4</Id>
+      <Name>Ячменная похлебка</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>5c8a4b70-d6a3-446a-a42f-a2c6daab7bda</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>aad6c7de-c86b-4ef0-8218-82bf64f56e44</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c31eaa0c-703f-4f60-b3cd-0ca3495fb8c0</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>10</Count>
+          <ProfessionId>631f1a31-963e-40b9-81a2-b9d50b86bc69</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>94bae2f2-d25b-474c-90ec-2016b13f38f6</Id>
+      <Name>Упаковка строительной древесины</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2295</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>a1cd7abf-2f2a-4514-bcd0-59ba77f973a2</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>f934fb88-a289-4b4a-befb-797adf0f1610</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>a1cd7abf-2f2a-4514-bcd0-59ba77f973a2</Id>
+      <Name>Бревно</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>4</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>2a5733ed-469f-41d3-a541-b1c362ab212d</Id>
+      <Name>Густой лакировочный состав</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>5</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>15</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4dca0bf7-cf51-493c-bd13-5d350967cea3</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>3cf49d1a-5e28-4bc4-8ca4-1b4afd739f09</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>dc437f40-7b26-4c07-9c4a-7ee4d89ec170</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>6e02caf5-14e9-4eb0-9c5f-3926a460b14b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>76067251-ee3f-40a2-b75a-1465c962a7fd</Id>
+      <Name>Лакированная древесина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>7.79</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>94bae2f2-d25b-474c-90ec-2016b13f38f6</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>2a5733ed-469f-41d3-a541-b1c362ab212d</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>f934fb88-a289-4b4a-befb-797adf0f1610</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>4cc6a999-3d4c-47fd-9724-e080047f8ee5</Id>
+      <Name>Самородок акхиума</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>4.71</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>8b02f427-5918-4f22-8470-2c9f7f745209</Id>
+      <Name>Слиток акхиума</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>16.30</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>4cc6a999-3d4c-47fd-9724-e080047f8ee5</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>15</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>6851a914-7121-49c0-b412-38b90c445654</Id>
+      <Name>Чертеж: Отличный печатный станок</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>10</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>764bdc5e-5d2a-429e-a1e3-3054b04a48ac</Id>
+      <Name>Отличный печатный станок</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>6851a914-7121-49c0-b412-38b90c445654</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8b02f427-5918-4f22-8470-2c9f7f745209</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>76067251-ee3f-40a2-b75a-1465c962a7fd</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>f934fb88-a289-4b4a-befb-797adf0f1610</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>dbca2dc9-be73-40cd-ad17-b92adfc6a441</Id>
+      <Name>Книжная закладка</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2267</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>d4a72829-9419-4559-94c9-2e2e10d012f0</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4f4ca627-651f-48d4-92cb-c9ebd46ad4e3</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>59b5621a-1a09-4c58-a824-e54af35d4790</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>ae2e2f9a-9637-4e30-bed1-bcfdac8fa390</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>10</Count>
+          <ProfessionId>f653af5b-2402-4063-ac16-9f8ab67bbf6b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>8db2b155-397e-4c96-a916-4a58587489c7</Id>
+      <Name>Плотная книжная закладка</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>2.46</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>dbca2dc9-be73-40cd-ad17-b92adfc6a441</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>f653af5b-2402-4063-ac16-9f8ab67bbf6b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>076332ba-1048-48d8-a744-eacb135c3808</Id>
+      <Name>Семена тыквы</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.02</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>ebe9e079-b4cd-4af0-a016-717e048d130d</Id>
+      <Name>Экспериментальная тыква</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>076332ba-1048-48d8-a744-eacb135c3808</ItemId>
+              <Count>25</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8df8fa46-087a-4b3b-9f80-cf19dce32730</ItemId>
+              <Count>4</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>df679be2-e69c-4148-84d4-42076f1d7224</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>d4a72829-9419-4559-94c9-2e2e10d012f0</Id>
+      <Name>Бумага</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>94bae2f2-d25b-474c-90ec-2016b13f38f6</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>2</Count>
+          <ProfessionId>f653af5b-2402-4063-ac16-9f8ab67bbf6b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>b89a485e-a982-4ed7-8c3e-46690d60bd55</Id>
+      <Name>Рыбий жир</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>3.31</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>cea4e36d-a288-4b01-9ccb-fb7303a9a0a6</Id>
+      <Name>Пергамент</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>3.45</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>d4a72829-9419-4559-94c9-2e2e10d012f0</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b89a485e-a982-4ed7-8c3e-46690d60bd55</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8df8fa46-087a-4b3b-9f80-cf19dce32730</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>2</Count>
+          <ProfessionId>f653af5b-2402-4063-ac16-9f8ab67bbf6b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>4f4ca627-651f-48d4-92cb-c9ebd46ad4e3</Id>
+      <Name>Клейкий листочек</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2293</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>59b5621a-1a09-4c58-a824-e54af35d4790</Id>
+      <Name>Ткань</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1386</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>ae2e2f9a-9637-4e30-bed1-bcfdac8fa390</Id>
+      <Name>Сыромятная кожа</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1877</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>21bb5c6b-a614-4eef-ad08-1b61a25c9843</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>6c2c6530-ff07-48b8-91f4-6ae830aab8f9</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>33333333-3333-3333-3333-333333333333</Id>
+      <Name>_Ремесленная репутация</Name>
+      <ShortName>РР</ShortName>
+      <BuyPrices />
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>c3ffca7c-162b-488a-b091-29ad7b8504db</Id>
+      <Name>Катушка суровых ниток</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>f99e7070-e50c-441c-bd18-daa2935d593d</VendorId>
+          <CurrencyId>33333333-3333-3333-3333-333333333333</CurrencyId>
+          <Value>20</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>dbd227a8-2295-4c3d-aae4-4b7331c136aa</Id>
+      <Name>Пыль дельфийского сада</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>39.88</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>13</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>361d42ed-15cf-4f4e-8ac0-de9a3b40cc91</Id>
+      <Name>Каменная соль</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>1.48</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>18</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>0934bea6-9af8-43e6-a33f-2af45d8bb178</Id>
+      <Name>Арахис</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0647</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>200</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>517e51dd-2967-4eb4-8948-454ddbed7f7a</Id>
+      <Name>Розовый ажурный коралл</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.199</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>30</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>486a6092-3cbb-4414-a181-b3ea0416a07d</Id>
+      <Name>Очищенный лакировочный состав</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>14.32</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>361d42ed-15cf-4f4e-8ac0-de9a3b40cc91</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>0934bea6-9af8-43e6-a33f-2af45d8bb178</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>7574d7c7-5469-47dc-b9d0-4dc0b5ff3b07</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>517e51dd-2967-4eb4-8948-454ddbed7f7a</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>6e02caf5-14e9-4eb0-9c5f-3926a460b14b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>56bdd74b-9e54-422e-bc90-af69c7ce4b9f</Id>
+      <Name>Мерцающая древесина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>331</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>76067251-ee3f-40a2-b75a-1465c962a7fd</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>dbd227a8-2295-4c3d-aae4-4b7331c136aa</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>486a6092-3cbb-4414-a181-b3ea0416a07d</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>f934fb88-a289-4b4a-befb-797adf0f1610</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>711df3fc-8b6f-43ac-9cde-ce385a0b7075</Id>
+      <Name>Азалия</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0557</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>760</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>bd7adc7c-85ff-4b8d-9d1d-71dfbf9f5ecd</Id>
+      <Name>Нарцисс</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0365</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1040</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>3f137bec-609b-42de-9776-ea566ad6826f</Id>
+      <Name>Густое шлифовальное масло</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>4.77</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>15</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4dca0bf7-cf51-493c-bd13-5d350967cea3</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>711df3fc-8b6f-43ac-9cde-ce385a0b7075</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>bd7adc7c-85ff-4b8d-9d1d-71dfbf9f5ecd</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>6e02caf5-14e9-4eb0-9c5f-3926a460b14b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>858e9b6b-2a79-42e2-a42a-e372250b356a</Id>
+      <Name>Слиток железа</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.059</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>9d42ad4c-a357-4adf-9868-6e8c979237df</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>27</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>9d42ad4c-a357-4adf-9868-6e8c979237df</Id>
+      <Name>Железная руда</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0017</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>7280cb05-cdcd-42b4-b689-d96801975286</Id>
+      <Name>Медная руда</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0056</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>8ae6a08f-5440-4b7b-b8f9-1bb50d97c152</Id>
+      <Name>Слиток меди</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0923</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>7280cb05-cdcd-42b4-b689-d96801975286</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Звиздун</CharacterName>
+          <Value>192</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>e20299d6-5609-42f3-82fb-15ae0e27b723</Id>
+      <Name>Серебряный самородок</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0131</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>54042d85-e8db-4713-9a4c-12e5ce374484</Id>
+      <Name>Слиток серебра</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1415</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>e20299d6-5609-42f3-82fb-15ae0e27b723</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Звиздун</CharacterName>
+          <Value>190</Value>
+        </Stock>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>89</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>9d5cfd5c-1124-437b-9df1-15edb467dae7</Id>
+      <Name>Прочный сплав</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>6.58</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>858e9b6b-2a79-42e2-a42a-e372250b356a</ItemId>
+              <Count>8</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8ae6a08f-5440-4b7b-b8f9-1bb50d97c152</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>54042d85-e8db-4713-9a4c-12e5ce374484</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>3f137bec-609b-42de-9776-ea566ad6826f</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>34a1d999-82f5-41fa-9478-784eba02e3ce</Id>
+      <Name>Очищенное шлифовальное масло</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>15.78</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>361d42ed-15cf-4f4e-8ac0-de9a3b40cc91</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>830c58b9-f3f5-4019-888a-69d310cc2b4b</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>ecd13884-b5cd-42f1-9ff6-562d6126f92d</ItemId>
+              <Count>30</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>27062f96-d72e-4475-9f9d-8d97588937ea</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>6e02caf5-14e9-4eb0-9c5f-3926a460b14b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>b3f88af6-efba-4fc8-af7c-d573017e33c9</Id>
+      <Name>Слиток солнечного металла</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>339</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>9d5cfd5c-1124-437b-9df1-15edb467dae7</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>dbd227a8-2295-4c3d-aae4-4b7331c136aa</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>34a1d999-82f5-41fa-9478-784eba02e3ce</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>830c58b9-f3f5-4019-888a-69d310cc2b4b</Id>
+      <Name>Лотос</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.055</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>41</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>ecd13884-b5cd-42f1-9ff6-562d6126f92d</Id>
+      <Name>Овес</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>45</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>27062f96-d72e-4475-9f9d-8d97588937ea</Id>
+      <Name>Древовидный коралл</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2454</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>20</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>58fc7459-a61c-436b-bc11-95f15b0c4fe9</Id>
+      <Name>Чертеж: инистрийский руль из мерцающей древесины</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.6075</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>ffc8bd0e-3ab5-492c-9e68-e40ff7a18a73</Id>
+      <Name>Инистрийский руль из лакированной древесины</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0001</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>a3480674-a8a6-49ff-ba29-f53a217206bc</Id>
+      <Name>Инистрийский руль из мерцающей древесины</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>100</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>ffc8bd0e-3ab5-492c-9e68-e40ff7a18a73</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>56bdd74b-9e54-422e-bc90-af69c7ce4b9f</ItemId>
+              <Count>8</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b3f88af6-efba-4fc8-af7c-d573017e33c9</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>361d42ed-15cf-4f4e-8ac0-de9a3b40cc91</ItemId>
+              <Count>36</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>58fc7459-a61c-436b-bc11-95f15b0c4fe9</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8e29cb9d-fcf6-416c-8975-e88291fdb5cc</ItemId>
+              <Count>12</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>2b0e5052-b88f-41e9-b022-4a25ebd634e4</ItemId>
+              <Count>12</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>2b0e5052-b88f-41e9-b022-4a25ebd634e4</Id>
+      <Name>Желатин</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>2.76</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>20</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>923c9979-2997-478b-abab-af71928087d9</Id>
+      <Name>Метеоритная руда</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2595</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>8e29cb9d-fcf6-416c-8975-e88291fdb5cc</Id>
+      <Name>Слиток метеоритного железа</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>1.16</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>15</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>923c9979-2997-478b-abab-af71928087d9</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>12</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>215fb8dd-5afc-47bb-8d1c-3cc09689b200</Id>
+      <Name>Лекарственный порошок</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0186</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>7b03f236-bd4a-4637-aef1-da1ceb059a35</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>47</Count>
+          <ProfessionId>3f88be5b-4a6b-4578-b579-cc8ae7df6311</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>0ead0b17-1b56-4264-b50f-06d57f7d9f3c</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>15</Count>
+          <ProfessionId>3f88be5b-4a6b-4578-b579-cc8ae7df6311</ProfessionId>
+        </Craft>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>1e2ddd86-c455-4a20-b804-b692356c36dd</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>77</Count>
+          <ProfessionId>3f88be5b-4a6b-4578-b579-cc8ae7df6311</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>2050</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>100e21aa-8eb0-4c13-81aa-cb14f378fd5a</Id>
+      <Name>Аир</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0313</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>828</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>749b44af-d520-4beb-926b-7324ddbf02fe</Id>
+      <Name>Лавровый лист</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0654</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>53</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>ccaa96f4-bf05-4169-a691-c434b907d2e1</Id>
+      <Name>Василек</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0516</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>708</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>4faceb5c-8475-41c1-a04f-71038407d88e</Id>
+      <Name>Чертополох</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0346</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1143</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>dd4a93da-a171-4cb8-b5b7-3a9f665d5364</Id>
+      <Name>Драгоценный флакон с эликсиром маны</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>160</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>215fb8dd-5afc-47bb-8d1c-3cc09689b200</ItemId>
+              <Count>191</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>749b44af-d520-4beb-926b-7324ddbf02fe</ItemId>
+              <Count>50</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>7b03f236-bd4a-4637-aef1-da1ceb059a35</ItemId>
+              <Count>45</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>ccaa96f4-bf05-4169-a691-c434b907d2e1</ItemId>
+              <Count>40</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4faceb5c-8475-41c1-a04f-71038407d88e</ItemId>
+              <Count>45</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>100e21aa-8eb0-4c13-81aa-cb14f378fd5a</ItemId>
+              <Count>50</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>10</Count>
+          <ProfessionId>6e02caf5-14e9-4eb0-9c5f-3926a460b14b</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>146</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>0ead0b17-1b56-4264-b50f-06d57f7d9f3c</Id>
+      <Name>Грибы</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0336</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>597</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>1e2ddd86-c455-4a20-b804-b692356c36dd</Id>
+      <Name>Женьшень</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.1071</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>695ee9e4-170c-4a57-9360-74fd619eff2e</Id>
+      <Name>Пыль звездного акхиума</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.54</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>ba2baf88-4a4c-4d74-a30f-8dea0e62a0b5</Id>
+      <Name>Светящийся шар</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>5.43</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>8e29cb9d-fcf6-416c-8975-e88291fdb5cc</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>695ee9e4-170c-4a57-9360-74fd619eff2e</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>15</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>9ba5bb3e-434f-483a-b124-af8eb00f7af8</Id>
+      <Name>Водолазный шлем</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>25.15</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>150</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>ba2baf88-4a4c-4d74-a30f-8dea0e62a0b5</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>5d6f184e-5b55-43ea-b1fb-1754b598b61c</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>54042d85-e8db-4713-9a4c-12e5ce374484</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>9d5cfd5c-1124-437b-9df1-15edb467dae7</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>5d6f184e-5b55-43ea-b1fb-1754b598b61c</Id>
+      <Name>Слиток золота</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>3.84</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>29</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>9b0ebaba-821b-4b5b-b721-d7aeae1a419b</Id>
+      <Name>Ласты ныряльщика</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>43.40</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>200</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>5d6f184e-5b55-43ea-b1fb-1754b598b61c</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>54042d85-e8db-4713-9a4c-12e5ce374484</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>ae2e2f9a-9637-4e30-bed1-bcfdac8fa390</ItemId>
+              <Count>2</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>21bb5c6b-a614-4eef-ad08-1b61a25c9843</Id>
+      <Name>Шкура</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0365</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>9b5d8ff3-83d5-4f21-9a57-0ada2ead51d8</Id>
+      <Name>Роза</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0359</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>752</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>e3db9934-c3bb-4b89-8bc0-2000b3101653</Id>
+      <Name>Утиное перо</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.059</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>00d25c09-33af-4b24-932e-6b127c2aaf9e</Id>
+      <Name>Гусиное перо</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.0419</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>a29ff37d-4cc4-47b5-a264-c60f0d91f899</Id>
+      <Name>Перья для письма</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.2796</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>e3db9934-c3bb-4b89-8bc0-2000b3101653</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>00d25c09-33af-4b24-932e-6b127c2aaf9e</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>a24e0aa9-5a65-42ea-a9ca-fc07279463d6</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>0706e4c3-9c5c-4c35-bbf8-b219c3bb99fe</Id>
+      <Name>Каучуковая смола</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>5.96</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>8a7d3aaf-fdce-4edc-8d3c-aa0e7d1d8024</Id>
+      <Name>Акхиумная древесина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>3.25</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>8</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>e5b23a17-562c-4f92-917b-e7f9315cfd11</Id>
+      <Name>Прочное колесо</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>24.6</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8a7d3aaf-fdce-4edc-8d3c-aa0e7d1d8024</ItemId>
+              <Count>4</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>9d5cfd5c-1124-437b-9df1-15edb467dae7</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>2</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>4</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>8d0cabc2-90a2-4411-8ec4-c4263c8924e7</Id>
+      <Name>Колесо с резиновой шиной</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>142</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>50</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>e5b23a17-562c-4f92-917b-e7f9315cfd11</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>0706e4c3-9c5c-4c35-bbf8-b219c3bb99fe</ItemId>
+              <Count>20</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>1ea246ca-6fe0-4b60-a33a-27ebdffa4eaa</Id>
+      <Name>Искрящаяся древесина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>251</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>2</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>587f6231-7610-4fcb-9208-77d1fe83a9ef</Id>
+      <Name>Трансмиссия</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>1ea246ca-6fe0-4b60-a33a-27ebdffa4eaa</ItemId>
+              <Count>2</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b3f88af6-efba-4fc8-af7c-d573017e33c9</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>c6cb395f-3a3b-46c4-890c-189941c41f1f</Id>
+      <Name>Пламенеющая древесина</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>7.82</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>5</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>e6ca0167-8eae-412a-b1a7-1f9625ff2dcb</Id>
+      <Name>Система впрыска топлива</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>178</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c6cb395f-3a3b-46c4-890c-189941c41f1f</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>54042d85-e8db-4713-9a4c-12e5ce374484</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>5d6f184e-5b55-43ea-b1fb-1754b598b61c</ItemId>
+              <Count>10</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8b02f427-5918-4f22-8470-2c9f7f745209</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks>
+        <Stock>
+          <CharacterName>Бериллий</CharacterName>
+          <Value>1</Value>
+        </Stock>
+      </Stocks>
+    </Item>
+    <Item>
+      <Id>54adc26c-5ad3-4d8e-ad7b-858b51d72d0a</Id>
+      <Name>Орудийная башня</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>b3f88af6-efba-4fc8-af7c-d573017e33c9</ItemId>
+              <Count>3</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>56bdd74b-9e54-422e-bc90-af69c7ce4b9f</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>59904ddc-53c8-456d-84d7-df2caeffc6d4</Id>
+      <Name>Бронированный танк</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>e5b23a17-562c-4f92-917b-e7f9315cfd11</ItemId>
+              <Count>4</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>587f6231-7610-4fcb-9208-77d1fe83a9ef</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>e6ca0167-8eae-412a-b1a7-1f9625ff2dcb</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>54adc26c-5ad3-4d8e-ad7b-858b51d72d0a</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>08e3210f-477c-47db-8056-034761253a57</Id>
+      <Name>Укрепленный горнийский руль</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>50</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>94bae2f2-d25b-474c-90ec-2016b13f38f6</ItemId>
+              <Count>24</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>858e9b6b-2a79-42e2-a42a-e372250b356a</ItemId>
+              <Count>16</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8e29cb9d-fcf6-416c-8975-e88291fdb5cc</ItemId>
+              <Count>12</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4dca0bf7-cf51-493c-bd13-5d350967cea3</ItemId>
+              <Count>48</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>c1c53edb-440b-4724-a49a-7614edda71fe</Id>
+      <Name>Укрепленный нуианский руль</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>94bae2f2-d25b-474c-90ec-2016b13f38f6</ItemId>
+              <Count>24</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>858e9b6b-2a79-42e2-a42a-e372250b356a</ItemId>
+              <Count>16</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8e29cb9d-fcf6-416c-8975-e88291fdb5cc</ItemId>
+              <Count>12</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4dca0bf7-cf51-493c-bd13-5d350967cea3</ItemId>
+              <Count>48</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>bd84ea12-ad87-4aac-b4e5-96c6c570851f</Id>
+      <Name>Нуианский руль из лакированной древесины</Name>
+      <ShortName />
+      <BuyPrices />
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>75</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>76067251-ee3f-40a2-b75a-1465c962a7fd</ItemId>
+              <Count>36</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>9d5cfd5c-1124-437b-9df1-15edb467dae7</ItemId>
+              <Count>24</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>8e29cb9d-fcf6-416c-8975-e88291fdb5cc</ItemId>
+              <Count>24</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>4dca0bf7-cf51-493c-bd13-5d350967cea3</ItemId>
+              <Count>48</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>361d42ed-15cf-4f4e-8ac0-de9a3b40cc91</ItemId>
+              <Count>12</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>654622a5-7801-4348-ba51-d3176c6348a7</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>b113078a-90f5-48e6-8db0-541bab70385b</Id>
+      <Name>Сертификат качества необычных товаров</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>9953fc67-55ad-4511-983c-5f3b1a93779a</VendorId>
+          <CurrencyId>33333333-3333-3333-3333-333333333333</CurrencyId>
+          <Value>10000</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>74c51883-c9ce-4fc4-ab47-349dac668c1b</Id>
+      <Name>Порох</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>2.12</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>864cbf45-9861-4a4b-8bfd-693cd6189bd1</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>c35720e3-c40c-4f4a-821b-8f2eeba1c5b3</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>4</Count>
+          <ProfessionId>79db97d5-f5fe-4354-b6be-c8a03df76836</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>99757771-c76c-4743-9eeb-922c41911d42</Id>
+      <Name>Артиллерийский снаряд</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>39a7c5d5-8a16-45e2-9830-8e160417f0ed</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>2.63</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts>
+        <Craft>
+          <CraftItems>
+            <CraftItem>
+              <ItemId>22222222-2222-2222-2222-222222222222</ItemId>
+              <Count>5</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>858e9b6b-2a79-42e2-a42a-e372250b356a</ItemId>
+              <Count>1</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>74c51883-c9ce-4fc4-ab47-349dac668c1b</ItemId>
+              <Count>2</Count>
+            </CraftItem>
+            <CraftItem>
+              <ItemId>f5046c72-1e9c-42e3-9327-1c0bca3285f0</ItemId>
+              <Count>6</Count>
+            </CraftItem>
+          </CraftItems>
+          <Count>1</Count>
+          <ProfessionId>b74461b8-e4d7-41ac-9854-1ae8516f4177</ProfessionId>
+        </Craft>
+      </Crafts>
+      <Stocks />
+    </Item>
+    <Item>
+      <Id>f5046c72-1e9c-42e3-9327-1c0bca3285f0</Id>
+      <Name>Ремесленные перчатки</Name>
+      <ShortName />
+      <BuyPrices>
+        <Price>
+          <VendorId>9953fc67-55ad-4511-983c-5f3b1a93779a</VendorId>
+          <CurrencyId>11111111-1111-1111-1111-111111111111</CurrencyId>
+          <Value>0.25</Value>
+          <AddItems />
+        </Price>
+      </BuyPrices>
+      <SalePrices />
+      <Crafts />
+      <Stocks />
+    </Item>
+  </Items>
+  <Professions>
+    <Profession>
+      <Id>6e02caf5-14e9-4eb0-9c5f-3926a460b14b</Id>
+      <Name>Алхимия</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>89d63e8e-16bb-44b6-b46b-e2c8b3d3b4c3</Id>
+      <Name>Животноводство</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>18ff3e2b-dadb-4e1d-89cf-5155cc13e3ac</Id>
+      <Name>Заготовка древесины</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>95c0dbb2-27e9-47d5-8e5e-72b34fd01b06</Id>
+      <Name>Земледелие</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>654622a5-7801-4348-ba51-d3176c6348a7</Id>
+      <Name>Инженерное дело</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>f653af5b-2402-4063-ac16-9f8ab67bbf6b</Id>
+      <Name>Книгопечатание</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>6c2c6530-ff07-48b8-91f4-6ae830aab8f9</Id>
+      <Name>Кожевничество</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>a9329cbc-eeca-40f8-8f33-7fc7f6bd09f0</Id>
+      <Name>Кузнечное дело</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>631f1a31-963e-40b9-81a2-b9d50b86bc69</Id>
+      <Name>Кулинария</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>24f7a636-0cb1-4512-90d4-9ef6d45f9414</Id>
+      <Name>Музицирование</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>f934fb88-a289-4b4a-befb-797adf0f1610</Id>
+      <Name>Обработка древесины</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>79db97d5-f5fe-4354-b6be-c8a03df76836</Id>
+      <Name>Обработка камня</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>b74461b8-e4d7-41ac-9854-1ae8516f4177</Id>
+      <Name>Оружейное дело</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>ecdb500b-6c70-4f7b-9647-48d607d6bcd0</Id>
+      <Name>Особые предметы</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>a24e0aa9-5a65-42ea-a9ca-fc07279463d6</Id>
+      <Name>Портняжное дело</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>6fec1a57-cd39-4307-964c-16111af662c8</Id>
+      <Name>Ремесло декоратора</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>3a22f567-d068-462f-9e00-950de7b1d695</Id>
+      <Name>Строительство</Name>
+      <Level>0</Level>
+    </Profession>
+    <Profession>
+      <Id>e8541f70-29ba-4ef8-9d21-64cfa789b486</Id>
+      <Name>_Торговля</Name>
+      <Level>4</Level>
+    </Profession>
+    <Profession>
+      <Id>3f88be5b-4a6b-4578-b579-cc8ae7df6311</Id>
+      <Name>Травничество</Name>
+      <Level>1</Level>
+    </Profession>
+    <Profession>
+      <Id>08cb1818-98e9-4ef3-a538-23f5db3bacc8</Id>
+      <Name>Воровство</Name>
+      <Level>2</Level>
+    </Profession>
+  </Professions>
+  <Characters>
+    <Character>
+      <Name>Бериллий</Name>
+      <DateTime>2016-03-07T13:42:29.637449+03:00</DateTime>
+      <WorkScore>0</WorkScore>
+    </Character>
+    <Character>
+      <Name>Звизда</Name>
+      <DateTime>2016-03-07T13:42:34.2777144+03:00</DateTime>
+      <WorkScore>0</WorkScore>
+    </Character>
+    <Character>
+      <Name>Звиздун</Name>
+      <DateTime>2016-03-07T13:42:38.9119795+03:00</DateTime>
+      <WorkScore>0</WorkScore>
+    </Character>
+  </Characters>
+</Data>

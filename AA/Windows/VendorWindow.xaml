@@ -1,0 +1,33 @@
+﻿<Window x:Class="AA.Windows.VendorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Продавец" Height="100" Width="300" Style="{StaticResource DefaultWindow}" WindowStartupLocation="CenterOwner">
+
+	<Window.Resources>
+		<Style TargetType="TextBlock" BasedOn="{StaticResource DefaultText}"/>
+		<Style TargetType="TextBox" BasedOn="{StaticResource DefaultTextBox}"/>
+	</Window.Resources>
+	
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+
+		<Grid>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="Auto"/>
+				<ColumnDefinition/>
+			</Grid.ColumnDefinitions>
+
+			<TextBlock Text="Название:"/>
+			<TextBox x:Name="tbName" Grid.Column="1" Style="{StaticResource DefaultTextBox}"/>
+		</Grid>
+
+		<StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Right">
+			<Button Content="OK" Click="OnOkClick" Style="{StaticResource OkButton}"/>
+			<Button Content="Отмена" Style="{StaticResource CancelButton}"/>
+		</StackPanel>
+	</Grid>
+</Window>

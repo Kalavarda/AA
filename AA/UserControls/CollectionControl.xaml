@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="AA.UserControls.CollectionControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:userControls="clr-namespace:AA.UserControls">
+	
+	<UserControl.Resources>
+		<userControls:ItemConverter x:Key="itemConverter"/>
+	</UserControl.Resources>
+	
+    <Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+			<ColumnDefinition Width="Auto"/>
+		</Grid.ColumnDefinitions>
+
+		<ListView x:Name="itemsControl" Margin="5" SelectionChanged="OnSelectionChanged">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<Border Margin="2" Background="#01808080" MouseLeftButtonDown="OnMouseLeftButtonDown">
+						<TextBlock Text="{Binding Converter={StaticResource itemConverter}}"/>
+					</Border>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>
+		
+		<StackPanel Grid.Column="1">
+			<TextBox Style="{StaticResource DefaultTextBox}" TextChanged="OnSearchTextChanged"/>
+			<Button Content="Add..." Click="OnAddClick" Style="{StaticResource DefaultButton}"/>
+			<Button Content="Edit..." x:Name="btnEdit" Click="OnEditClick" Style="{StaticResource DefaultButton}"/>
+			<Button Content="Remove" x:Name="btnRemove" Style="{StaticResource DefaultButton}" Click="OnRemoveClick"/>
+			<Button Content="Clear" x:Name="btnClear" Style="{StaticResource DefaultButton}" Click="OnClearClick"/>
+		</StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,9 @@
+﻿<Application x:Class="EventNotifier.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:eventNotifier="clr-namespace:EventNotifier"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+		<eventNotifier:SuperConverter x:Key="superConverter"/>
+    </Application.Resources>
+</Application>
