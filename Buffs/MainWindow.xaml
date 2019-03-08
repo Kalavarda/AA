@@ -1,0 +1,13 @@
+﻿<Window x:Class="Buffs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Buffs" Topmost="True" WindowStyle="None" ResizeMode="CanResize" Icon="ktimer.ico"
+		Height="60" Width="300">
+	<Window.ContextMenu>
+		<ContextMenu>
+			<MenuItem Header="Settings..." Click="OnSettingsClick"/>
+		</ContextMenu>
+	</Window.ContextMenu>
+    <StackPanel Orientation="Horizontal" x:Name="_buttons">
+    </StackPanel>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window
+	x:Class="Buffs.BuffTypeWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	Title="BuffType" Height="300" Width="400" ShowInTaskbar="False" WindowStartupLocation="CenterOwner">
+    <Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition/>
+			<RowDefinition Height="Auto"/>
+		</Grid.RowDefinitions>
+		
+		<Grid>
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="Auto"/>
+				<ColumnDefinition/>
+				<ColumnDefinition Width="Auto"/>
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition/>
+				<RowDefinition/>
+			</Grid.RowDefinitions>
+
+			<TextBlock Text="Image: "/>
+			<TextBox x:Name="_fileName" Grid.Column="1"/>
+			<Button Content="..." Grid.Column="2" Click="OnBrowseClick"/>
+
+			<TextBlock Text="Duration: " Grid.Row="1"/>
+			<TextBox x:Name="_duration" Grid.Row="1" Grid.Column="1"/>
+		</Grid>
+
+		<StackPanel Grid.Row="2" HorizontalAlignment="Right">
+			<Button Content="OK" IsDefault="True" Click="OnOkClick"/>
+		</StackPanel>
+	</Grid>
+</Window>
